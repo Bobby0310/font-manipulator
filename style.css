@@ -1,0 +1,25 @@
+.buttontext{
+ margin: 0px;
+ width: 100%;
+ box-shadow: #B546FE 5px 5px 5px ;
+ font-size: 40px;
+}
+
+.spantext{
+    font-size:15px;
+    color: black;
+}
+
+.footer{
+    width: 100%;
+    color: #41006d;
+    background-color:#31B0D5 ;
+    bottom: -3px;
+    position: fixed;
+    font-size: 17;
+}
+ canvas{
+    border-style: dashed;
+    border-width: 10px;
+    border-color: #4a8ca0;
+ }
